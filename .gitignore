@@ -1,0 +1,5 @@
+#--- rvm
+.rvmrc
+
+#--- vim related stuff
+.gitignore~
